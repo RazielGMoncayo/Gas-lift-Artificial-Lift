@@ -25,7 +25,7 @@ ____
 *Pws* = Pressure bottomhole static / Presión de fondo estática [psi]   
 *%Agua* = Water percentage / Porcentaje de agua [adim]   
 _____
-## Graphic interface
+## GUI App Designer 
 ![alt text](https://github.com/RazielGMoncayo/Gas-lift-Artificial-Lift/blob/master/Graphic%20interface%20pictures/Graphic%20interface%201.png?raw=true)
 ![alt text](https://github.com/RazielGMoncayo/Gas-lift-Artificial-Lift/blob/master/Graphic%20interface%20pictures/Graphic%20interface%202.1.png?raw=true)
 ![alt text](https://github.com/RazielGMoncayo/Gas-lift-Artificial-Lift/blob/master/Graphic%20interface%20pictures/Graphic%20interface%203.1.jpg?raw=true)
