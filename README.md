@@ -27,6 +27,8 @@ ____
 _____
 ## Graphic interface
 ![alt text](https://github.com/RazielGMoncayo/Gas-lift-Artificial-Lift/blob/master/Graphic%20interface%20pictures/Graphic%20interface%201.png?raw=true)
+![alt text](https://github.com/RazielGMoncayo/Gas-lift-Artificial-Lift/blob/master/Graphic%20interface%20pictures/Graphic%20interface%202.1.png?raw=true)
+![alt text](https://github.com/RazielGMoncayo/Gas-lift-Artificial-Lift/blob/master/Graphic%20interface%20pictures/Graphic%20interface%203.1.jpg?raw=true)
 _____
 ## **Results**   
 ### First plot   
