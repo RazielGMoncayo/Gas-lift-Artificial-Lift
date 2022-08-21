@@ -1,7 +1,7 @@
 # **Gas lift (Artificial Lift)**
 I did this program when I was a student in 2021 and I used Matlab App Designer with my educational license.   
 It's a Continuous-flow Gas Lift problem and I took valves CAMCO type AK without spring.   
-_____   
+____
 ## **Input Data and units**
 *The technical names in English and Spanish.* 
 
@@ -25,40 +25,39 @@ _____
 *Pws* = Pressure bottomhole static / Presión de fondo estática [psi]   
 *%Agua* = Water percentage / Porcentaje de agua [adim]   
 _____
+## Graphic interface
+![alt text](https://github.com/RazielGMoncayo/Gas-lift-Artificial-Lift/blob/master/Graphic%20interface%20pictures/Graphic%20interface%201.png?raw=true)
+![alt text](https://github.com/RazielGMoncayo/Gas-lift-Artificial-Lift/blob/master/Graphic%20interface%20pictures/Graphic%20interface%202.1.png?raw=true)
+![alt text](https://github.com/RazielGMoncayo/Gas-lift-Artificial-Lift/blob/master/Graphic%20interface%20pictures/Graphic%20interface%203.1.jpg?raw=true)
+_____
 ## **Results**   
 ### First plot   
 *Gradients for oil-saltwater mixtures*      
 Plot   
-
+![alt text](https://github.com/RazielGMoncayo/Gas-lift-Artificial-Lift/blob/master/Plots/gradientes%20para%20mezclas%20de%20aceite-agua%20salada.jpg?raw=true)
 Program   
+![alt text](https://github.com/RazielGMoncayo/Gas-lift-Artificial-Lift/blob/master/Graphic%20interface%20pictures/First_plot.png?raw=true)
 
 ### Second plot   
 *Weigth of gas column*   
 Plot   
-
+![alt text](https://github.com/RazielGMoncayo/Gas-lift-Artificial-Lift/blob/master/Plots/weight%20of%20gas%20column.jpg?raw=true)   
 Program   
-### First and second Table
-*Control fluid gradient line*
-Program 
+![alt text](https://github.com/RazielGMoncayo/Gas-lift-Artificial-Lift/blob/master/Graphic%20interface%20pictures/Second_plot.png?raw=true)   
 
 ### Valves calibration
-*Pressure*   
-
-*Temperature*   
-### Relación de calores específicos en función de la temperatura y la densidad relativa
-Relationship of specific heats as a function of temperature and relative density   
-Plot   
-
-Program   
-
-### CAMCO table
-
-____
-## About code
-I'll be really honest, when I did this program I didn't understand loops enough, and I didn't use that.   
-   
+*Pressure and Temperature Results*   
+![alt text](https://github.com/RazielGMoncayo/Gas-lift-Artificial-Lift/blob/master/Graphic%20interface%20pictures/Pressure%20and%20Temperature.png?raw=true)   
 In the Valves calibration, I used **polyxpoly** to know the intersection between two lines.   
 
-And the steps that I followed was the established ones in this sistem.   
+### Relationship of specific heats as a function of temperature and relative density      
+Plot   
+![alt text](https://github.com/RazielGMoncayo/Gas-lift-Artificial-Lift/blob/master/Plots/Relaci%C3%B3n%20de%20calores%20espec%C3%ADficos%20en%20funci%C3%B3n%20de%20la%20temperatura%20y%20la%20densidad%20relativa.jpg?raw=true)
+Program   
+![alt text](https://github.com/RazielGMoncayo/Gas-lift-Artificial-Lift/blob/master/Graphic%20interface%20pictures/Gas%20flow%20rate.png?raw=true)
+### CAMCO table
+![alt text](https://github.com/RazielGMoncayo/Gas-lift-Artificial-Lift/blob/master/Plots/CAMCO%20table.jpg?raw=true)
+____
 
-## Graphic interface
+
+
