@@ -31,6 +31,7 @@ _____
 Plot   
 
 Program   
+![alt text](https://github.com/RazielGMoncayo/Gas-lift-Artificial-Lift/blob/master/Graphic%20interface%20pictures/First_plot.png?raw=true)
 
 ### Second plot   
 *Weigth of gas column*   
