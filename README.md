@@ -29,31 +29,35 @@ _____
 ### First plot   
 *Gradients for oil-saltwater mixtures*      
 Plot   
-
+![alt text](https://github.com/RazielGMoncayo/Gas-lift-Artificial-Lift/blob/master/Plots/gradientes%20para%20mezclas%20de%20aceite-agua%20salada.jpg?raw=true)
 Program   
 ![alt text](https://github.com/RazielGMoncayo/Gas-lift-Artificial-Lift/blob/master/Graphic%20interface%20pictures/First_plot.png?raw=true)
 
 ### Second plot   
 *Weigth of gas column*   
 Plot   
-
+![alt text](https://github.com/RazielGMoncayo/Gas-lift-Artificial-Lift/blob/master/Plots/weight%20of%20gas%20column.jpg?raw=true)
 Program   
+![alt text](https://github.com/RazielGMoncayo/Gas-lift-Artificial-Lift/blob/master/Graphic%20interface%20pictures/First_plot.png?raw=true)
 ### First and second Table
 *Control fluid gradient line*
-Program 
+Program   
+![alt text](https://github.com/RazielGMoncayo/Gas-lift-Artificial-Lift/blob/master/Graphic%20interface%20pictures/First_plot.png?raw=true)
 
 ### Valves calibration
 *Pressure*   
-
+![alt text](https://github.com/RazielGMoncayo/Gas-lift-Artificial-Lift/blob/master/Graphic%20interface%20pictures/First_plot.png?raw=true)
 *Temperature*   
+![alt text](https://github.com/RazielGMoncayo/Gas-lift-Artificial-Lift/blob/master/Graphic%20interface%20pictures/First_plot.png?raw=true)
+
 ### Relación de calores específicos en función de la temperatura y la densidad relativa
 Relationship of specific heats as a function of temperature and relative density   
 Plot   
-
+![alt text](https://github.com/RazielGMoncayo/Gas-lift-Artificial-Lift/blob/master/Graphic%20interface%20pictures/First_plot.png?raw=true)
 Program   
-
+![alt text](https://github.com/RazielGMoncayo/Gas-lift-Artificial-Lift/blob/master/Graphic%20interface%20pictures/First_plot.png?raw=true)
 ### CAMCO table
-
+![alt text](https://github.com/RazielGMoncayo/Gas-lift-Artificial-Lift/blob/master/Plots/CAMCO%20table.jpg?raw=true)
 ____
 ## About code
 I'll be really honest, when I did this program I didn't understand loops enough, and I didn't use that.   
